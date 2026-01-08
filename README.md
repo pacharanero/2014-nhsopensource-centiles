@@ -1,12 +1,8 @@
-scimp_curriculum
-================
+# 2014 Growth Chart Centile presentation
 
-SCIMP 2014 presentation on RCGP Curriculum
-presentation uses the open source javascript framework Reveal.js as opposed to a more traditional powerpoint type file.
+I can't actually remember where this was presented! It's here for posterity only.
+Updated to fix reveal.js version
+This work has all been superseded by the RCPCH Digital Growth Charts project https://growth.rcpch.ac.uk
 
-Usage
------
-* download the .zip archive to a folder on your computer.
-* unpack the archive
-* navigate to scimp_curriculum/
-* open index.html (should automatically open in a browser)
+Marcus Baw
+March 2022
